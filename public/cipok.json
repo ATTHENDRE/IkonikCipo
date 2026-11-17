@@ -3,32 +3,45 @@
     {
       "marka": "Nike",
       "meret": 46,
-      "megjelenes": "2005-05-09",  
-      "elerheto": true
+      "megjelenes": "2005-05-09",
+      "elerheto": true,
+      "id": "qe_P8vvw5cI"
     },
     {
       "marka": "Adidas",
       "meret": 45,
-      "megjelenes": "2105-05-09",  
-      "elerheto": false
+      "megjelenes": "2105-05-09",
+      "elerheto": false,
+      "id": "1G3gCP8L9WQ"
     },
     {
       "marka": "New Balance",
       "meret": 42,
-      "megjelenes": "2025-05-09",  
-      "elerheto": true
+      "megjelenes": "2025-05-09",
+      "elerheto": true,
+      "id": "341q4DF3Rqg"
     },
     {
       "marka": "Puma",
       "meret": 48,
-      "megjelenes": "2003-05-09",  
-      "elerheto": false
+      "megjelenes": "2003-05-09",
+      "elerheto": false,
+      "id": "djKp6lWUrso"
     },
     {
-      "marka": "Nike",
-      "meret": 41,
-      "megjelenes": "2005-06-09",  
-      "elerheto": true
+      "marka": "Pepsi",
+      "meret": 32,
+      "megjelenes": "2044-05-09",
+      "elerheto": false,
+      "id": "3XCVJPg_-b0"
+    },
+    {
+      "marka": "aowhdo",
+      "meret": 43,
+      "megjelenes": "2026-11-12T23:00:00.000Z",
+      "elerheto": true,
+      "id": "wVxvfKVxvUA"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
